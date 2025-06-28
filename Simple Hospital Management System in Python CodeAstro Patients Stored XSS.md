@@ -42,7 +42,7 @@ Paste the following payload in the "First Name" input field and click Save Info 
 Reload the profile page.  
 You’ll see a JavaScript `alert(1)` triggered — confirming the stored XSS vulnerability.
 
-Also, refreshing the page again will show the alert repeatedly.
+Also, refreshing the page again will show the alert repeatedly. and if anyone open Patient.html Popup will also occur:
 ![image](https://github.com/user-attachments/assets/4d5ecc27-75b8-4f6c-a588-d4ba518db9e6)
 ![image](https://github.com/user-attachments/assets/fc8a7649-d0a6-49e4-9d40-daba9ef72d49)
 
