@@ -101,7 +101,6 @@ Perform regular penetration testing using tools such as:
 - [OWASP XSS Prevention Cheat Sheet](https://owasp.org/www-community/xss-prevention)
 - [Content Security Policy (CSP) Guide - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
 - [PHP htmlspecialchars()](https://www.php.net/manual/en/function.htmlspecialchars.php)
-- [PHPGurukul Hospital Management System](https://phpgurukul.com/online-hospital-management-system-using-php-mysql/)
 - [OWASP Secure Coding Practices](https://owasp.org/www-project-secure-coding-practices/)
 
 ---
