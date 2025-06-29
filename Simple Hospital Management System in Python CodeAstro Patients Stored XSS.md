@@ -11,7 +11,7 @@ Attackers can inject malicious JavaScript via the patname field (POST parameter)
 | **Attack Vector**    | `First Name` parameter via POST request                                   |
 | **Vulnerability Type** | Stored Cross-Site Scripting (XSS)                                   |
 | **Version Affected** | v1.0                                                                   |
-| **Official Website** | [Simple Python Hospital Management System](https://phpgurukul.com/online-hospital-management-system-using-php-mysql/) |
+| **Official Website** | [Simple Python Hospital Management System](https://codeastro.com/simple-hospital-management-system-in-python-with-source-code/) |
 
 ## Proof of Concept (PoC)
 
